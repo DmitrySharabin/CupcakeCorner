@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct Response: Codable {
-    var resultCount: Int
     var results: [Result]
 }
 

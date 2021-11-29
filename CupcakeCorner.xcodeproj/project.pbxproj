@@ -19,7 +19,6 @@
 		8E5F9BC42754EA93000F6050 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8E5F9BC62754EA94000F6050 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E5F9BC92754EA94000F6050 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		8E5F9BD02754FC78000F6050 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +51,6 @@
 		8E5F9BC12754EA93000F6050 /* CupcakeCorner */ = {
 			isa = PBXGroup;
 			children = (
-				8E5F9BD02754FC78000F6050 /* Info.plist */,
 				8E5F9BC22754EA93000F6050 /* CupcakeCornerApp.swift */,
 				8E5F9BC42754EA93000F6050 /* ContentView.swift */,
 				8E5F9BC62754EA94000F6050 /* Assets.xcassets */,
